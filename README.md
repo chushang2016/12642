@@ -10,7 +10,7 @@
 #   项目资料获取方式
 *   需要资料或者有任何问题的加QQ：2684634017
 
-*   项目源代码下载地址：http://blog.codercode.cn/#/home/goodDetail?goodId=12642
+*   项目源代码下载地址：https://bysj.bsitem.com/#/home/goodDetail?goodId=12642
 
 #  项目演示视频：https://graduation-images.oss-cn-beijing.aliyuncs.com/videos/12642/12642_[springboot]%E5%9F%BA%E4%BA%8EJava%E7%9A%84%E5%AD%A6%E7%94%9F%E7%BD%91%E4%B8%8A%E9%80%89%E8%AF%BE%E7%B3%BB%E7%BB%9F%E8%A7%86%E9%A2%91(%E7%BC%96%E5%8F%B7%EF%BC%9A75558389).mp4
 
